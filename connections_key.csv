@@ -51,3 +51,6 @@ filename,presynaptic_driver,presynaptic_effector,HS0_class,HS0_reporter,HS0_angl
 2017_11_27_exp1_TH_AD1_connections,Tlx3,Ai136,,,,,,pyr,pos,227.2,-6842.4,-7466.8,,,,,,,,,,
 2017_11_29_exp1_TH_connections,Tlx3,Ai136,pyr,neg,234.75,-8656.4,-7469.7,,,,,,,,,,,,,,,
 2017_11_29_exp3_TH_connections,Tlx3,Ai136,pyr,neg,240,-8927.5,-7861.9,,,,,,,,,,,,,,,
+cell3_connections,GAD2,Ai136,,,,,,pyr,neg,260,-6753.425,5161.952,,,,,,,,,,
+2017_11_17_exp1_TH_connections,Tlx3,Ai136,,,,,,pyr,neg,130,-6195.3,-6631.2,,,,,,,,,,
+2017_11_17_exp3_TH_connections,Tlx3,Ai136,pyr,pos,229,-8127.8,-6414.4,,,,,,,,,,,,,,,
